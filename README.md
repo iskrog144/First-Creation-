@@ -1,0 +1,2 @@
+# Primeira-Cria-o
+Fiz um sistema que possibilita a soma das notas de 4 bimestres e no final , ele diz a media 
